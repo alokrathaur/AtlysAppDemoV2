@@ -257,5 +257,3 @@ For issues, questions, or contributions, please open an issue on GitHub.
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: January 2024  
-**Developed with**: SwiftUI & Xcode 15
