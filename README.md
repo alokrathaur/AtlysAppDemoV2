@@ -2,6 +2,12 @@
 
 A modern iOS application built with SwiftUI that showcases an interactive country carousel for visa applications, featuring smooth animations, dynamic card scaling, and a clean authentication interface.
 
+## 📱 Preview
+
+https://github.com/user-attachments/assets/0e955a4a-ee04-485d-91ff-2a930525699e
+
+
+
 ## 📱 Features
 
 ### 🎠 Interactive Carousel
